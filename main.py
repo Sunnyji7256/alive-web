@@ -9,7 +9,8 @@ websites = [
     "https://khan-sir-class.onrender.com",
     "https://studymate-app.onrender.com",
     "https://aman-2-lz4v.onrender.com",
-    "https://cw-ppj7.onrender.com"
+    "https://cw-ppj7.onrender.com",
+    "https://appx-api-sunny.onrender.com"
 ]
 
 interval = 600
