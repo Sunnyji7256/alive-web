@@ -6,8 +6,10 @@ websites = [
     "https://gs-center.onrender.com",
     "https://khan-global-institute.onrender.com",
     "https://jeet-diku.onrender.com",
-    "https://mock-motive.onrender.com",
-    "https://jeet-diku-ka6e.onrender.com"
+    "https://khan-sir-class.onrender.com",
+    "https://studymate-app.onrender.com",
+    "https://aman-2-lz4v.onrender.com",
+    "https://cw-ppj7.onrender.com"
 ]
 
 interval = 600
