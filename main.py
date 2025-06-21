@@ -6,7 +6,7 @@ websites = [
     "https://gs-center.onrender.com",
     "https://khan-global-institute.onrender.com",
     "https://jeet-diku.onrender.com",
-    "https://khan-sir-class.onrender.com",
+    "https://kgs-free-class.onrender.com/",
     "https://studymate-app.onrender.com",
     "https://aman-2-lz4v.onrender.com",
     "https://cw-ppj7.onrender.com",
