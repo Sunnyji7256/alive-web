@@ -3,14 +3,9 @@ import requests
 from datetime import datetime
 
 websites = [
-    "https://gs-center.onrender.com",
-    "https://khan-global-institute.onrender.com",
-    "https://jeet-diku.onrender.com",
-    "https://kgs-free-class.onrender.com/",
-    "https://studymate-app.onrender.com",
-    "https://aman-2-lz4v.onrender.com",
-    "https://cw-ppj7.onrender.com",
-    "https://appx-api-sunny.onrender.com"
+    "https://khan-sir-free-class.onrender.com",
+    "https://sunny-tqqx.onrender.com",
+    "https://appx-api.onrender.com"
 ]
 
 interval = 600
